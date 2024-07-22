@@ -1,5 +1,5 @@
 {
-	"file": "UpSet_Data1_ERPM.csv”,
+	"file": "https://raw.githubusercontent.com/oliverjosephquinn/upset-data/fe0599ac8cd23453d90b089e842e7cbb68170810/UpSet_Data1_ERPM”,
 	"name": “ER-PM CS”,
 	"header": 0,
 	"separator": ";",
